@@ -21,6 +21,8 @@ public class Test {
 		
 		System.out.println("a : "+a);
                 System.out.println("hello");
+                System.out.println("hai");
+
 
 	}
 
