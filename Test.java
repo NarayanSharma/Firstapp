@@ -20,6 +20,7 @@ public class Test {
 		boolean a = Pattern.matches(regex4, "CLG");
 		
 		System.out.println("a : "+a);
+                System.out.println("hello");
 
 	}
 
